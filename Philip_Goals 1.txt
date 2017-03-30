@@ -1,0 +1,14 @@
+For this class, 
+
+  1.  I would like to write a Python program using object oriented programming.
+  1.  I would like the program to use classes.
+
+
+  2.  I would like to use the Ruby language.
+  2.  Probably this means working through the Ruby book.
+
+  3.  I would like to build a small program collaboratively with other people in this class.
+  3.  This small project would be done using the online tools Ms. Rose is showing us (GitHub, SLACK).
+
+
+Philip 3/20/2017 
