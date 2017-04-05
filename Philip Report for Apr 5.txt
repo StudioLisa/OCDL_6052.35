@@ -1,0 +1,12 @@
+Today (April 5) I created multiple GitHub accounts, to play with file passing between them.
+GitHub ended up "flagging" the accounts, deciding there was a problem.
+
+So, I sent GitHub a few messages asking them to "unflag" the accounts.
+
+I learned a few things:
+
+1. GitHub has automated "Robot" detection, they don't want machines messing with their machines.
+
+2. GitHub has a "Contact us" feature for appealing the flagging decisions.
+
+3. GitHub communicates via the account setup e-mail.
