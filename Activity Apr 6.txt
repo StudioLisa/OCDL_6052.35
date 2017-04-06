@@ -1,0 +1,35 @@
+Yesterday I made multiple GitHub accounts, with the objective of 
+trying to learn about communicating between them.
+
+But github blocked them, so yesterday I sent a message to GitHub asking to get
+my mulitiple accounts back.
+
+Github replied that they only allow one account per user, because having mulitple
+accounts may cause "unexpected results."
+
+They unblocked one of my accounts.
+
+So today I used the one account to run through an exercise on GitHub.
+I also looked up some of the features on the Web.
+
+I still don't feel completely comfortable on GitHub.
+I can't quite articulate "why".
+
+I think I expect it to operate just like a file directory, where each branch works as a directory,
+and the fork and pull requests work essentially like copy commands.
+
+But I think that is not quite the way GitHub works.
+
+GitHub seems extremely powerful, but I am working on getting comfortable with it.
+
+I plan to continue working through examples on GitHub, and generally messing around with it.
+
+Learning GitHub was NOT my goal coming into the class, but now, getting comfortable with it 
+certainly seems like a worthwile priority, even if it is not "coding" exactly.
+
+ 
+ 
+
+
+
+
