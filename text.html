@@ -1,27 +1,48 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-h1 {
-    background-color: RED;
+* {
+    box-sizing: border-box;
 }
-
-div {
-    background-color: blue;
+.header {
+    border: 1px solid red;
+    padding: 15px;
 }
-
-p {
-    background-color: orange;
+.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
+}
+.main {
+    width: 75%;
+    float: left;
+    padding: 15px;
+    border: 1px solid red;
 }
 </style>
 </head>
 <body>
 
-<h1>CSS background-color example!</h1>
-<div>
-This is a text inside a div element.
-<p>This paragraph has its own background color.</p>
-We are still in the div element.
+<div class="header">
+  <h1>Chania</h1>
+</div>
+
+<div class="menu">
+  <ul>
+    <li>The Flight</li>
+    <li>The City</li>
+    <li>The Island</li>
+    <li>The Food</li>
+  </ul>
+</div>
+
+<div class="main">
+  <h1>The City</h1>
+  <p>Chania is the capital of the Chania region on the island of Crete. The city can be divided in two parts, the old town and the modern city.</p>
+  <p>Resize the browser window to see how the content respond to the resizing.</p>
 </div>
 
 </body>
